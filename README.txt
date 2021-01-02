@@ -1,3 +1,2 @@
 This is my basic portfolio website
-http://github.com - automatic!
-[GitHub](http://github.com)
+[Link to my portfolio website](https://muskanapp.github.io)
